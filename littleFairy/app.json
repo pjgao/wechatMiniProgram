@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#797d86",
+    "navigationBarTitleText": "我和小仙女相遇的日子",
+    "navigationBarTextStyle":"white"
+  }
+}

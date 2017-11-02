@@ -1,0 +1,15 @@
+<canvas canvas-id='myCanvas' class="canvas"/>
+<view class="page">                  
+  <view class="counts" style='position:relative, top:{{height/2}}'>     
+    <text class ="countTime1">{{days}}</text> 
+    <text class ="ff">天　</text>
+    <text class="countTime2">{{h}}</text>
+    <text class='ff'>时　</text> 
+    <text class='countTime3'>{{m}}</text>
+    <text class='ff'>分　</text> 
+    <text class='countTime4'>{{s}}</text>
+    <text class='ff'>秒</text> 
+  </view>        
+</view>
+
+
